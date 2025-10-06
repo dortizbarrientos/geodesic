@@ -3,8 +3,6 @@
 ```
 senecio-gmatrix-affine-analysis/
 ├── README.md
-├── LICENSE
-├── requirements.txt
 ├── data
 │   ├── ortiz-barrientos_senecio_bootstrap_results.csv
 │   ├── ortiz-barrientos_senecio_geodesic_path.csv

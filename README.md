@@ -193,8 +193,8 @@ MIT License - see LICENSE file
 
 ## Contact
 
+```
 Daniel Ortiz-Barrientos - d.ortizbarrientos@uq.edu.au
-
 ```
 
 ## requirements.txt
@@ -207,3 +207,4 @@ seaborn==0.12.2
 scipy==1.11.1
 scikit-learn==1.3.0
 ```
+

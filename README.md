@@ -210,27 +210,3 @@ seaborn==0.12.2
 scipy==1.11.1
 scikit-learn==1.3.0
 ```
-
-## docs/METHODS.md
-
-Create a detailed mathematical explanation of:
-1. Why affine-invariance matters for G-matrices
-2. Geometric interpretation of the paraboloid framework
-3. Proof that components are orthogonal
-4. Comparison to other distance metrics (Euclidean, Procrustes, tensor)
-
-## docs/INTERPRETATION.md
-
-Biological interpretation guide:
-1. What does anisotropy mean evolutionarily?
-2. When should we expect anisotropy to change vs. stay constant?
-3. How to interpret geodesic paths
-4. Limitations and assumptions
-
-## Additional Files Needed
-
-1. **LICENSE** - Choose MIT, GPL, or BSD depending on your preference
-2. **CHANGELOG.md** - Track version updates
-3. **.gitignore** - Standard Python gitignore
-
-This structure provides clear navigation, reproducible workflows, and sufficient documentation for both users who want to run the analysis and those who want to understand the methods deeply.

@@ -19,9 +19,6 @@ senecio-gmatrix-affine-analysis/
     ├── METHODS.md
     └── INTERPRETATION.md
 ```
-
-## Main README.md Content
-
 # Affine-Invariant Analysis of G-Matrix Evolution in Senecio lautus
 
 Geometric analysis of genetic variance-covariance matrix evolution across four ecotypes of *Senecio lautus*demonstrates how adaptation to contrasting coastal environments reorganizes the G-matrix structure.

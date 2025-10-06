@@ -5,19 +5,23 @@ senecio-gmatrix-affine-analysis/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── data/
-│   ├── README.md
-│   ├── senecio_bootstrap_results.csv
-│   └── senecio_geodesic_path.csv
-├── scripts/
-│   ├── senecio_complete_analysis.py
-│   ├── senecio_affine_analysis_2.py
-│   └── senecio_figure1d_clean.py
-├── figures/
-│   └── (output figures will be saved here)
-└── docs/
-    ├── METHODS.md
-    └── INTERPRETATION.md
+├── data
+│   ├── ortiz-barrientos_senecio_bootstrap_results.csv
+│   ├── ortiz-barrientos_senecio_geodesic_path.csv
+│   ├── walter_et_al_am_nat_main.pdf
+│   ├── walter_et_al_am_nat_main_Dmatrix.csv
+│   ├── walter_et_al_am_nat_main_Gvariance.csv
+│   ├── walter_et_al_am_nat_r.R
+│   └── walter_et_al_am_nat_supp.pdf
+├── figures
+│   └── ortiz-barrientos_figures.pdf
+├── results
+│   └── ortiz-barrientos_senecio_results_writeup.md
+└── scripts
+    ├── ortiz-barrientos_senecio_affine_analysis_2.py
+    ├── ortiz-barrientos_senecio_complete_analysis.py
+    └── ortiz-barrientos_senecio_figure1d_clean.py
+
 ```
 # Affine-Invariant Analysis of G-Matrix Evolution in Senecio lautus
 

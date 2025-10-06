@@ -193,11 +193,8 @@ MIT License - see LICENSE file
 
 ## Contact
 
-[Your name and email]
+Daniel Ortiz-Barrientos - d.ortizbarrientos@uq.edu.au
 
-## Acknowledgments
-
-Analysis builds on theoretical framework developed by [cite relevant geometric statistics papers]. Thanks to Greg Walter for making G-matrix data publicly available.
 ```
 
 ## requirements.txt
